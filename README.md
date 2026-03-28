@@ -1,5 +1,9 @@
 # 🏥 Healthcare Risk Analytics & Prediction Project
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Last Commit](https://img.shields.io/badge/Last%20Commit-March%202026-yellow)
+
 ## 📌 Overview
 
 This project focuses on analyzing patient health and lifestyle data to identify key risk factors associated with high-risk patients and build a predictive model for healthcare risk classification.
