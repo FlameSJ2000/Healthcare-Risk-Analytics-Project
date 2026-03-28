@@ -1,8 +1,10 @@
 # 🏥 Healthcare Risk Analytics & Prediction Project
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow)
 ![License](https://img.shields.io/badge/License-MIT-green)
-![Last Commit](https://img.shields.io/badge/Last%20Commit-March%202026-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Last Commit](https://img.shields.io/badge/Last%20Commit-March%202026-orange)
 
 ## 📌 Overview
 
