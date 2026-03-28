@@ -21,11 +21,11 @@ The project includes:
 
 ### 🔹 Risk Drivers Analysis
 
-![Risk Drivers](Dashboards/Screenshots/Healthcare Risk Drivers Analysis.png)
+![Risk Drivers](Dashboards/Screenshots/Healthcare%20Risk%20Drivers%20Analysis.png)
 
 ### 🔹 Model Insights & Performance
 
-![Model Performance](Dashboards/Screenshots/Model Insights & Risk Drivers.png)
+![Model Performance](Dashboards/Screenshots/Model%20Insights%20&%20Risk%20Drivers.png)
 
 ---
 
