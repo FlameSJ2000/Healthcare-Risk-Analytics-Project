@@ -1,4 +1,4 @@
-# 🏥 Healthcare Risk Analytics Project
+# 🏥 Healthcare Risk Analytics & Prediction Project
 
 ## 📌 Overview
 
